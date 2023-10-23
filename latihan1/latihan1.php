@@ -1,2 +1,2 @@
 <?php 
-$uang = "rupiah";
+echo "ini adalah latihan 1";
